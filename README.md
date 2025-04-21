@@ -41,7 +41,7 @@ Our online nursery website offers a comprehensive platform for purchasing your f
 1. **Clone the repository**
 
    ```sh
-   https://github.com/kazirauf/pure-planet-client.git
+   https://github.com/kazirahat89/pure-planet-client.git
    ```
 
    2. **Navigate to the project directory**
